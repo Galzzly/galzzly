@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ## Just a bit about me
 - I'm currently working on PR's for projects that I discover and find interesting
-- I am a level 3 technical support engineer
+- I am a Customer Reliability Engineer
 
 ![`Galzzly`'s GitHub stats](https://github-readme-stats.vercel.app/api?username=galzzly&show_icons=true&theme=gotham)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galzzly&theme=gotham&layout=compact)
