@@ -8,6 +8,9 @@ Hi, I’m Liam. I work in reliability engineering and spend most of my time turn
 
 For any project that I have built, please feel free to open an issue or PR.
 
+---
+![Trophies](https://github-profile-trophy.vercel.app/?username=Galzzly&theme=discord)
+
 ## What I'm working on
 
 ### goff
@@ -36,6 +39,8 @@ You'll see that I have a couple of repositories for Advent of Code, which I star
 [![Top language](https://img.shields.io/github/languages/top/Galzzly/advent-of-code?style=flat)](https://github.com/Galzzly/advent-of-code) [![Last commit](https://img.shields.io/github/last-commit/Galzzly/advent-of-code?style=flat)](https://github.com/Galzzly/advent-of-code) [![License](https://img.shields.io/github/license/Galzzly/advent-of-code?style=flat)](https://github.com/Galzzly/advent-of-code)
 
 Older code can be found under [AoC](https://github.com/Galzzly/AoC) and [adventofcode](https://github.com/Galzzly/adventofcode).
+
+
 
 <!--
 ![`Galzzly`'s GitHub stats](https://github-readme-stats.vercel.app/api?username=galzzly&show_icons=true&theme=gotham)
